@@ -1,0 +1,41 @@
+{
+    "nama": "Syifa Ul Jannah",
+    "age":17,
+    "hoby":[
+        "menulis",
+        "masak"
+    ],
+
+    "github": {
+        "username": "@syifaul",
+        "repositories": 1710,
+        "isGDE": true 
+    },
+    "articles": [
+        {
+            "id": 1,
+            "title": "Ged Of War",
+            "subtitle": "that is movie"
+        },
+        {
+            "id": 2,
+            "title": "Marvest Moon",
+            "subtitle": "that is game"
+        },
+        {
+            "id": 3,
+            "title": "Avanget",
+            "subtitle": "that is hero"
+        }
+    ],
+    "contact": {
+        "1": {
+            "name": "syifaul",
+            "contact": "1234567"
+        },
+        "2": {
+            "name": "cipaull",
+            "contact": "2006"
+        }
+    }
+}
